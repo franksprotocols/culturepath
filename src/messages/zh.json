@@ -1,0 +1,90 @@
+{
+  "common": {
+    "appName": "文路",
+    "tagline": "语言是通往文化的桥梁",
+    "loading": "加载中...",
+    "back": "返回",
+    "next": "下一步",
+    "start": "开始",
+    "continue": "继续",
+    "close": "关闭",
+    "settings": "设置",
+    "language": "语言"
+  },
+  "nav": {
+    "discover": "发现",
+    "explore": "探索",
+    "timeline": "时间线",
+    "language": "语言",
+    "study": "学习",
+    "flashcards": "闪卡",
+    "progress": "进度"
+  },
+  "explore": {
+    "title": "探索国家",
+    "overview": "概览",
+    "history": "历史",
+    "dailyLife": "日常生活",
+    "philosophy": "哲学思想",
+    "religion": "宗教信仰",
+    "people": "名人",
+    "ideas": "核心理念",
+    "culturalCards": "文化卡片",
+    "keyFacts": "基本信息",
+    "population": "人口",
+    "capital": "首都",
+    "languages": "语言",
+    "learnMore": "了解更多"
+  },
+  "study": {
+    "title": "每日学习计划",
+    "todaysPlan": "今日计划",
+    "vocabulary": "词汇",
+    "listening": "听力",
+    "speaking": "口语",
+    "culture": "文化",
+    "minutesLeft": "剩余 {minutes} 分钟",
+    "completed": "已完成！",
+    "streak": "连续天数",
+    "dailyGoal": "每日目标",
+    "startSession": "开始学习",
+    "reviewWords": "复习词汇",
+    "newWords": "新词学习",
+    "practiceListening": "听力练习",
+    "culturalLesson": "文化课程"
+  },
+  "flashcard": {
+    "title": "闪卡复习",
+    "showAnswer": "显示答案",
+    "again": "重来",
+    "hard": "困难",
+    "good": "良好",
+    "easy": "简单",
+    "cardsLeft": "剩余 {count} 张卡片",
+    "sessionComplete": "复习完成！",
+    "wordsReviewed": "已复习词汇",
+    "accuracy": "正确率",
+    "nextReview": "下次复习",
+    "noCards": "暂时没有需要复习的卡片！",
+    "comeBackLater": "稍后再来练习吧"
+  },
+  "progress": {
+    "title": "学习进度",
+    "wordsLearned": "已学词汇",
+    "studyTime": "学习时长",
+    "dayStreak": "连续天数",
+    "accuracy": "正确率",
+    "minutes": "分钟",
+    "hours": "小时",
+    "days": "天",
+    "thisWeek": "本周",
+    "thisMonth": "本月",
+    "allTime": "全部",
+    "vocabularyProgress": "词汇进度",
+    "levelProgress": "等级进度"
+  },
+  "japan": {
+    "name": "日本",
+    "overview": "日本是东亚的一个岛国，以其独特的古老传统与前沿现代化融合而闻名。从宁静的神社到繁忙的东京街头，日本提供了世界上最丰富的文化体验之一。"
+  }
+}

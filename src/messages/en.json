@@ -1,0 +1,90 @@
+{
+  "common": {
+    "appName": "CulturePath",
+    "tagline": "Language is the gateway to culture",
+    "loading": "Loading...",
+    "back": "Back",
+    "next": "Next",
+    "start": "Start",
+    "continue": "Continue",
+    "close": "Close",
+    "settings": "Settings",
+    "language": "Language"
+  },
+  "nav": {
+    "discover": "Discover",
+    "explore": "Explore",
+    "timeline": "Timeline",
+    "language": "Language",
+    "study": "Study",
+    "flashcards": "Flashcards",
+    "progress": "Progress"
+  },
+  "explore": {
+    "title": "Explore Nations",
+    "overview": "Overview",
+    "history": "History",
+    "dailyLife": "Daily Life",
+    "philosophy": "Philosophy",
+    "religion": "Religion",
+    "people": "Famous People",
+    "ideas": "Key Ideas",
+    "culturalCards": "Cultural Cards",
+    "keyFacts": "Key Facts",
+    "population": "Population",
+    "capital": "Capital",
+    "languages": "Languages",
+    "learnMore": "Learn More"
+  },
+  "study": {
+    "title": "Daily Study Plan",
+    "todaysPlan": "Today's Plan",
+    "vocabulary": "Vocabulary",
+    "listening": "Listening",
+    "speaking": "Speaking",
+    "culture": "Culture",
+    "minutesLeft": "{minutes} min left",
+    "completed": "Completed!",
+    "streak": "Day Streak",
+    "dailyGoal": "Daily Goal",
+    "startSession": "Start Session",
+    "reviewWords": "Review Words",
+    "newWords": "New Words",
+    "practiceListening": "Practice Listening",
+    "culturalLesson": "Cultural Lesson"
+  },
+  "flashcard": {
+    "title": "Flashcard Review",
+    "showAnswer": "Show Answer",
+    "again": "Again",
+    "hard": "Hard",
+    "good": "Good",
+    "easy": "Easy",
+    "cardsLeft": "{count} cards left",
+    "sessionComplete": "Session Complete!",
+    "wordsReviewed": "Words Reviewed",
+    "accuracy": "Accuracy",
+    "nextReview": "Next Review",
+    "noCards": "No cards to review right now!",
+    "comeBackLater": "Come back later for more practice"
+  },
+  "progress": {
+    "title": "Progress",
+    "wordsLearned": "Words Learned",
+    "studyTime": "Study Time",
+    "dayStreak": "Day Streak",
+    "accuracy": "Accuracy",
+    "minutes": "min",
+    "hours": "hrs",
+    "days": "days",
+    "thisWeek": "This Week",
+    "thisMonth": "This Month",
+    "allTime": "All Time",
+    "vocabularyProgress": "Vocabulary Progress",
+    "levelProgress": "Level Progress"
+  },
+  "japan": {
+    "name": "Japan",
+    "overview": "An island nation in East Asia known for its unique blend of ancient traditions and cutting-edge modernity. From serene Shinto shrines to bustling Tokyo streets, Japan offers one of the world's richest cultural experiences."
+  }
+}
